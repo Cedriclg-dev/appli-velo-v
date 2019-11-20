@@ -1,4 +1,4 @@
-o# appli-velo-v
+# appli-velo-v
 Projet JAVASCRIPT : Concevez une carte interactive de location de vélos
 
 Sujet : Vous devez développer une application simulant la réservation de vélos dans la ville de votre choix. Ces vélos sont répartis dans de nombreuses stations dans la ville. L'utilisateur doit pouvoir en réserver un depuis son navigateur (à condition qu'il reste des vélos disponibles à la station). La réservation sera temporairement enregistrée sur le navigateur du visiteur.
